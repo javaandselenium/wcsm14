@@ -1,4 +1,4 @@
-package loctaors;
+package synchronization;
 
 import java.time.Duration;
 
